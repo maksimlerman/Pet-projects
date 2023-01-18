@@ -1,0 +1,1 @@
+# Assessment of real estate object's investment attractiveness on the example of garages and parking lots
