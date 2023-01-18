@@ -1,5 +1,5 @@
 # Pet-projects
- My pet-projects of on a wide variety of topics
+ My pet-projects of a wide variety of topics
 
 |Project_Name|Tools|challenge|
 |--------|-----------|------|
